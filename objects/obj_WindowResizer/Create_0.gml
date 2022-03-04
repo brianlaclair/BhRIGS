@@ -1,0 +1,1 @@
+/// @description This object runs code for automatically adjusting the canvas size
