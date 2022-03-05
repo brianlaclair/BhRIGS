@@ -1,6 +1,6 @@
 bhrigs_init();
 
-__bhrigs_debug = true;
+__bhrigs_debug = false;
 
 function bhrigs_init() {
 	

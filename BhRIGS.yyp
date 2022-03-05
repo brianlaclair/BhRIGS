@@ -1,10 +1,12 @@
 {
   "resources": [
+    {"id":{"name":"fntParagraph","path":"fonts/fntParagraph/fntParagraph.yy",},"order":0,},
     {"id":{"name":"bhrigs_misc_functions","path":"scripts/bhrigs_misc_functions/bhrigs_misc_functions.yy",},"order":2,},
+    {"id":{"name":"fntH1","path":"fonts/fntH1/fntH1.yy",},"order":1,},
     {"id":{"name":"obj_WindowResizer","path":"objects/obj_WindowResizer/obj_WindowResizer.yy",},"order":0,},
     {"id":{"name":"spr_Test","path":"sprites/spr_Test/spr_Test.yy",},"order":15,},
     {"id":{"name":"bhrigs_parse","path":"scripts/bhrigs_parse/bhrigs_parse.yy",},"order":1,},
-    {"id":{"name":"bhrigsBlock","path":"objects/bhrigsBlock/bhrigsBlock.yy",},"order":1,},
+    {"id":{"name":"obj_readTest","path":"objects/obj_readTest/obj_readTest.yy",},"order":2,},
     {"id":{"name":"bhrigs_setup","path":"scripts/bhrigs_setup/bhrigs_setup.yy",},"order":0,},
     {"id":{"name":"rm_Test","path":"rooms/rm_Test/rm_Test.yy",},"order":0,},
   ],
